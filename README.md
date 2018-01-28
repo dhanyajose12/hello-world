@@ -1,4 +1,4 @@
 # hello-world
 test project
-check for changes
+check for change
 test changes
